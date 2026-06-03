@@ -34,8 +34,8 @@ If you use this data, please cite the corresponding publications listed in
 [`CITATIONS.md`](CITATIONS.md), starting with Ament-Velásquez *et al.*.
 The HET-C alleles C1–C11 are taken from Saupe 1995 and Bastiaans 2014.
 
-The **code in this repository** is original (master's thesis, Kacper Koźmin)
-and is released under the MIT licence — see [`LICENSE`](LICENSE).
+The **code in this repository** is original Master's thesis project by Kacper Koźmin, supervisor: Witold Dyrka, PhD, DSc.
+Released under the MIT licence — see [`LICENSE`](LICENSE).
 
 ---
 
