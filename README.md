@@ -18,8 +18,7 @@ sequences:
 > embeddings. The AF3 work is parallel evidence about where the interface
 > lies, not an input to the classifier.
 
-This is the code base for a master's thesis at the University of Wrocław
-(Faculty of Biological Sciences).
+This is the code base for a master's thesis at the Wrocław University of Science and Technology.
 
 ---
 
