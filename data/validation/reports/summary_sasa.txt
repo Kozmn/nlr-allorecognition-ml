@@ -1,0 +1,42 @@
+AF3 Contact Validation Summary (SASA-filtered baseline, state=complex)
+============================================================
+
+SASA threshold:          rel_SASA >= 0.20
+SASA state:              complex  (in bound complex)
+Contact threshold:       contact_prob >= 0.2
+Permutations per test:   10000
+Significance threshold:  p < 0.05
+
+Jobs analyzed:           233
+Jobs with contacts:      211
+Jobs without contacts:   22
+
+NLR   hypervariable enrichment p<0.05: 136/211 (64%)
+HET-C hypervariable enrichment p<0.05: 15/211 (7%)
+
+Observed vs baseline (per-job mean, %):
+  NLR:   observed 70.83   surface-baseline 12.83   → enrichment 5.52×
+  HET-C: observed 1.39   surface-baseline 0.85   → enrichment 1.63×
+
+Note on observed%:
+  'observed' here = (hyper contacts ∩ surface pool) /
+                    (all contacts ∩ surface pool) × 100.
+  This is DIFFERENT from the unfiltered observed% reported by
+  validate_af3_contacts.py (which uses (hyper contacts) /
+  (all contacts), so the denominator includes contacts that
+  fall on buried residues). Do NOT divide the surface-filtered
+  observed by the classic uniform baseline — the two
+  numerator/denominator pairs come from different pools and
+  the ratio is methodologically meaningless.
+
+  For the genuine classic baseline (uniform over whole
+  sequence), refer to data/validation/reports/summary.txt
+  produced by validate_af3_contacts.py.
+
+Interpretation note:
+  The surface-filtered (apo-SASA) baseline is the honest
+  null for interchain contacts: residues that are buried
+  even when the chain is isolated cannot physically form
+  an interface. The classic uniform baseline includes
+  such core residues and is therefore a useful but
+  permissive reference.

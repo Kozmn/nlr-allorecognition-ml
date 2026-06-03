@@ -1,0 +1,234 @@
+job	model	phenotype	strain	confidence	hetc_allele	label	iptm	ptm	ranking_score	nlr_length	hetc_length	total_contacts	nlr_hyper_contacts	nlr_hyper_pct	nlr_contacts_in_repeats	nlr_hyper_pvalue	hetc_hyper_contacts	hetc_hyper_pct	hetc_hyper_pvalue	both_hyper_contacts	hetc_118_contacts	hetc_133_contacts	hetc_153_contacts	contacted_repeats	n_repeats_contacted	n_repeats_total
+d1_chehdap_conf_vs_c10_l1	d1_chehdap_conf_vs_c10_l1	D1	chehdap	conf	C10	l1	0.33	0.43	0.35	555	208	46	44	95.65	46	0.0001	4	8.7	0.0046	4	0	0	4	1,2,3,4,5,6,7,8,9	9	12
+d1_chehdap_conf_vs_c11_l1	d1_chehdap_conf_vs_c11_l1	D1	chehdap	conf	C11	l1	0.34	0.44	0.36	555	208	46	45	97.83	46	0.0001	5	10.87	0.0004	5	0	0	5	1,2,3,4,5,6,7,8,9	9	12
+d1_chehdap_conf_vs_c1_l0	d1_chehdap_conf_vs_c1_l0	D1	chehdap	conf	C1	l0	0.27	0.42	0.3	555	208	39	39	100.0	39	0.0001	3	7.69	0.0196	3	0	0	3	1,2,3,4,5,6,7,8	8	12
+d1_chehdap_conf_vs_c2_l1	d1_chehdap_conf_vs_c2_l1	D1	chehdap	conf	C2	l1	0.42	0.46	0.43	555	208	65	62	95.38	65	0.0001	5	7.69	0.0033	5	0	0	5	1,2,3,4,5,6,7,8,9	9	12
+d1_chehdap_conf_vs_c3_l0	d1_chehdap_conf_vs_c3_l0	D1	chehdap	conf	C3	l0	0.28	0.42	0.32	555	208	40	39	97.5	40	0.0001	3	7.5	0.0213	3	0	0	3	1,2,3,4,5,6,7,8	8	12
+d1_chehdap_conf_vs_c4_l1	d1_chehdap_conf_vs_c4_l1	D1	chehdap	conf	C4	l1	0.33	0.42	0.35	555	208	40	40	100.0	40	0.0001	4	10.0	0.0031	4	0	0	4	1,2,3,4,5,6,7,8,9	9	12
+d1_chehdap_conf_vs_c5_l0	d1_chehdap_conf_vs_c5_l0	D1	chehdap	conf	C5	l0	0.36	0.45	0.38	555	208	47	45	95.74	47	0.0001	2	4.26	0.14899	2	0	0	2	1,2,3,4,5,6,7,8	8	12
+d1_chehdap_conf_vs_c6_l0	d1_chehdap_conf_vs_c6_l0	D1	chehdap	conf	C6	l0	0.35	0.43	0.37	555	208	52	50	96.15	52	0.0001	4	7.69	0.0066	4	0	0	4	1,2,3,4,5,6,7,8,9	9	12
+d1_chehdap_conf_vs_c7_l1	d1_chehdap_conf_vs_c7_l1	D1	chehdap	conf	C7	l1	0.29	0.41	0.32	555	208	18	18	100.0	18	0.0001	3	16.67	0.0023	3	0	0	3	1,2,3,4,5,6,7,8	8	12
+d1_chehdap_conf_vs_c8_l1	d1_chehdap_conf_vs_c8_l1	D1	chehdap	conf	C8	l1	0.37	0.45	0.39	555	208	45	43	95.56	45	0.0001	2	4.44	0.14169	2	0	0	2	1,2,3,4,5,6,7,8	8	12
+d1_chehdap_conf_vs_c9_l1	d1_chehdap_conf_vs_c9_l1	D1	chehdap	conf	C9	l1	0.4	0.46	0.42	555	208	64	61	95.31	64	0.0001	5	7.81	0.003	5	0	0	5	1,2,3,4,5,6,7,8,9	9	12
+d2_csdfp_conf_vs_c11_l1	d2_csdfp_conf_vs_c11_l1	D2	csdfp	conf	C11	l1	0.21	0.37	0.26	555	208	0	0	0.0	0	1.0	0	0.0	1.0	0	0	0	0		0	12
+d2_csdfp_conf_vs_c1_l0	d2_csdfp_conf_vs_c1_l0	D2	csdfp	conf	C1	l0	0.2	0.36	0.24	555	208	1	1	100.0	1	0.16178	0	0.0	1.0	0	0	0	0	1	1	12
+d2_csdfp_conf_vs_c2_l0	d2_csdfp_conf_vs_c2_l0	D2	csdfp	conf	C2	l0	0.23	0.37	0.26	555	208	0	0	0.0	0	1.0	0	0.0	1.0	0	0	0	0		0	12
+d2_csdfp_conf_vs_c3_l0	d2_csdfp_conf_vs_c3_l0	D2	csdfp	conf	C3	l0	0.24	0.38	0.28	555	208	5	5	100.0	5	0.0002	0	0.0	1.0	0	0	0	0	1,4,5	3	12
+d2_csdfp_conf_vs_c4_l1	d2_csdfp_conf_vs_c4_l1	D2	csdfp	conf	C4	l1	0.21	0.36	0.25	555	208	0	0	0.0	0	1.0	0	0.0	1.0	0	0	0	0		0	12
+d2_csdfp_conf_vs_c5_l0	d2_csdfp_conf_vs_c5_l0	D2	csdfp	conf	C5	l0	0.23	0.37	0.26	555	208	3	3	100.0	3	0.0044	0	0.0	1.0	0	0	0	0	1,4,5	3	12
+d2_csdfp_conf_vs_c6_l0	d2_csdfp_conf_vs_c6_l0	D2	csdfp	conf	C6	l0	0.37	0.45	0.39	555	208	59	55	93.22	59	0.0001	5	8.47	0.0012	5	0	0	5	1,2,3,4,5,6,7,8,9	9	12
+d2_csdfp_conf_vs_c9_l1	d2_csdfp_conf_vs_c9_l1	D2	csdfp	conf	C9	l1	0.57	0.52	0.56	555	208	77	72	93.51	77	0.0001	4	5.19	0.0271	4	0	0	4	1,2,3,4,5,6,7,8,9	9	12
+d2_payp_conf_vs_c10_l1	d2_payp_conf_vs_c10_l1	D2	payp	conf	C10	l1	0.26	0.4	0.31	555	208	28	28	100.0	28	0.0001	3	10.71	0.0069	3	0	0	3	1,2,3,4,5,6,7,8,9	9	12
+d2_payp_conf_vs_c11_l1	d2_payp_conf_vs_c11_l1	D2	payp	conf	C11	l1	0.24	0.39	0.28	555	208	18	18	100.0	18	0.0001	2	11.11	0.0279	2	0	0	2	1,3,5,6,7,8,9	7	12
+d2_payp_conf_vs_c1_l0	d2_payp_conf_vs_c1_l0	D2	payp	conf	C1	l0	0.33	0.43	0.36	555	208	38	37	97.37	38	0.0001	3	7.89	0.0178	3	0	0	3	1,2,3,4,5,6,7,8	8	12
+d2_payp_conf_vs_c2_l0	d2_payp_conf_vs_c2_l0	D2	payp	conf	C2	l0	0.34	0.42	0.36	555	208	53	51	96.23	53	0.0001	4	7.55	0.0075	4	0	0	4	1,2,3,4,5,6,7,8,9	9	12
+d2_payp_conf_vs_c3_l0	d2_payp_conf_vs_c3_l0	D2	payp	conf	C3	l0	0.31	0.43	0.34	555	208	40	38	95.0	40	0.0001	3	7.5	0.0214	3	0	0	3	1,2,3,4,5,6,7,8	8	12
+d2_payp_conf_vs_c4_l1	d2_payp_conf_vs_c4_l1	D2	payp	conf	C4	l1	0.29	0.42	0.32	555	208	33	33	100.0	33	0.0001	3	9.09	0.013	3	0	0	3	1,2,3,4,5,6,7,8,9	9	12
+d2_payp_conf_vs_c5_l0	d2_payp_conf_vs_c5_l0	D2	payp	conf	C5	l0	0.33	0.43	0.35	555	208	39	38	97.44	39	0.0001	3	7.69	0.0203	3	0	0	3	1,2,3,4,5,6,7,8	8	12
+d2_payp_conf_vs_c6_l0	d2_payp_conf_vs_c6_l0	D2	payp	conf	C6	l0	0.39	0.44	0.4	555	208	54	52	96.3	54	0.0001	4	7.41	0.0067	4	0	0	4	1,2,3,4,5,6,7,8,9	9	12
+d2_payp_conf_vs_c8_l0	d2_payp_conf_vs_c8_l0	D2	payp	conf	C8	l0	0.32	0.43	0.35	555	208	35	35	100.0	35	0.0001	3	8.57	0.0134	3	0	0	3	1,2,3,4,5,6,7,8	8	12
+d2_payp_conf_vs_c9_l1	d2_payp_conf_vs_c9_l1	D2	payp	conf	C9	l1	0.29	0.44	0.32	555	208	53	50	94.34	53	0.0001	4	7.55	0.0083	4	0	0	4	1,3,4,5,6,7,8,9	8	12
+d3_cmemm_conf_vs_c10_l0	d3_cmemm_conf_vs_c10_l0	d3	cmemm	conf	C10	l0	0.28	0.39	0.31	597	208	24	22	91.67	24	0.0001	1	4.17	0.29117	0	0	0	1	1,2,3,4,5,6,7,8	8	12
+d3_cmemm_conf_vs_c11_l0	d3_cmemm_conf_vs_c11_l0	d3	cmemm	conf	C11	l0	0.26	0.38	0.29	597	208	21	20	95.24	21	0.0001	1	4.76	0.25487	1	0	0	1	1,2,3,4,5,6,7,8	8	12
+d3_cmemm_conf_vs_c1_l0	d3_cmemm_conf_vs_c1_l0	d3	cmemm	conf	C1	l0	0.33	0.42	0.35	597	208	33	26	78.79	33	0.0001	4	12.12	0.0007	4	0	0	4	1,2,3,4,5,6,7,8,9,10,11	11	12
+d3_cmemm_conf_vs_c2_l0	d3_cmemm_conf_vs_c2_l0	d3	cmemm	conf	C2	l0	0.3	0.39	0.32	597	208	39	34	87.18	39	0.0001	1	2.56	0.43986	0	0	0	1	1,2,3,4,5,6,7,8	8	12
+d3_cmemm_conf_vs_c3_l0	d3_cmemm_conf_vs_c3_l0	d3	cmemm	conf	C3	l0	0.39	0.44	0.4	597	208	42	38	90.48	42	0.0001	4	9.52	0.0043	4	0	0	4	1,2,3,4,5,6,7,8,9,11	10	12
+d3_cmemm_conf_vs_c4_l0	d3_cmemm_conf_vs_c4_l0	d3	cmemm	conf	C4	l0	0.27	0.39	0.31	597	208	27	24	88.89	27	0.0001	4	14.81	0.0003	3	0	0	4	1,2,3,4,5,6,7,8	8	12
+d3_cmemm_conf_vs_c6_l0	d3_cmemm_conf_vs_c6_l0	d3	cmemm	conf	C6	l0	0.45	0.46	-99.54	597	208	54	44	81.48	54	0.0001	5	9.26	0.0008	2	0	0	5	1,2,3,4,5,6,7,8	8	12
+d3_cmemm_conf_vs_c7_l0	d3_cmemm_conf_vs_c7_l0	d3	cmemm	conf	C7	l0	0.26	0.39	0.3	597	208	26	22	84.62	26	0.0001	2	7.69	0.05579	2	0	0	2	1,2,3,4,5,6,7,8	8	12
+d3_cmemm_conf_vs_c8_l0	d3_cmemm_conf_vs_c8_l0	d3	cmemm	conf	C8	l0	0.37	0.43	0.39	597	208	42	37	88.1	42	0.0001	4	9.52	0.0039	4	0	0	4	1,2,3,4,5,6,7,8,9,11	10	12
+d3_cmemm_conf_vs_c9_l0	d3_cmemm_conf_vs_c9_l0	d3	cmemm	conf	C9	l0	0.38	0.41	0.4	597	208	55	45	81.82	55	0.0001	4	7.27	0.0069	2	0	0	4	1,2,3,4,5,6,7,8	8	12
+d3_pawa100p_inf_vs_c10_l0	d3_pawa100p_inf_vs_c10_l0	d3	pawa100p	inf	C10	l0	0.28	0.4	0.31	555	208	28	28	100.0	28	0.0001	3	10.71	0.006	3	0	0	3	1,3,4,5,6,7,8,9	8	12
+d3_pawa100p_inf_vs_c11_l0	d3_pawa100p_inf_vs_c11_l0	d3	pawa100p	inf	C11	l0	0.33	0.44	0.36	555	208	31	31	100.0	31	0.0001	4	12.9	0.0009	4	0	0	4	1,2,3,4,5,6,7,8,9	9	12
+d3_pawa100p_inf_vs_c1_l0	d3_pawa100p_inf_vs_c1_l0	d3	pawa100p	inf	C1	l0	0.3	0.41	0.33	555	208	36	35	97.22	36	0.0001	3	8.33	0.0154	3	0	0	3	1,2,3,4,5,6,7,8	8	12
+d3_pawa100p_inf_vs_c2_l0	d3_pawa100p_inf_vs_c2_l0	d3	pawa100p	inf	C2	l0	0.3	0.41	0.34	555	208	52	50	96.15	52	0.0001	5	9.62	0.001	5	0	0	5	1,2,3,4,5,6,7,8,9	9	12
+d3_pawa100p_inf_vs_c3_l0	d3_pawa100p_inf_vs_c3_l0	d3	pawa100p	inf	C3	l0	0.28	0.41	0.31	555	208	34	33	97.06	34	0.0001	3	8.82	0.0134	3	0	0	3	1,2,3,4,5,6,7,8	8	12
+d3_pawa100p_inf_vs_c4_l0	d3_pawa100p_inf_vs_c4_l0	d3	pawa100p	inf	C4	l0	0.31	0.42	0.34	555	208	28	28	100.0	28	0.0001	4	14.29	0.0013	4	0	0	4	1,2,3,4,5,6,7,8,9	9	12
+d3_pawa100p_inf_vs_c5_l0	d3_pawa100p_inf_vs_c5_l0	d3	pawa100p	inf	C5	l0	0.28	0.4	0.33	555	208	23	23	100.0	23	0.0001	2	8.7	0.048	2	0	0	2	1,2,3,4,5,6,7,8	8	12
+d3_pawa100p_inf_vs_c6_l0	d3_pawa100p_inf_vs_c6_l0	d3	pawa100p	inf	C6	l0	0.35	0.44	0.37	555	208	57	55	96.49	57	0.0001	5	8.77	0.0018	5	0	0	5	1,2,3,4,5,6,7,8,9	9	12
+d3_pawa100p_inf_vs_c8_l0	d3_pawa100p_inf_vs_c8_l0	d3	pawa100p	inf	C8	l0	0.29	0.41	0.32	555	208	37	37	100.0	37	0.0001	3	8.11	0.0176	3	0	0	3	1,2,3,4,5,6,7,8	8	12
+d3_pawa100p_inf_vs_c9_l0	d3_pawa100p_inf_vs_c9_l0	d3	pawa100p	inf	C9	l0	0.31	0.45	0.34	555	208	67	63	94.03	67	0.0001	5	7.46	0.0025	5	0	0	5	1,2,3,4,5,6,7,8,9	9	12
+d3_pawa137m_inf_vs_c10_l0	d3_pawa137m_inf_vs_c10_l0	d3	pawa137m	inf	C10	l0	0.62	0.54	0.61	513	208	69	63	91.3	69	0.0001	0	0.0	1.0	0	0	0	0	1,2,3,4,5,6,8,9	8	11
+d3_pawa137m_inf_vs_c11_l0	d3_pawa137m_inf_vs_c11_l0	d3	pawa137m	inf	C11	l0	0.3	0.42	0.33	513	208	30	30	100.0	30	0.0001	3	10.0	0.0105	3	0	0	3	1,2,3,4,5,6,7,8	8	11
+d3_pawa137m_inf_vs_c2_l0	d3_pawa137m_inf_vs_c2_l0	d3	pawa137m	inf	C2	l0	0.36	0.45	0.38	513	208	55	52	94.55	55	0.0001	4	7.27	0.0081	4	0	0	4	1,2,3,4,5,6,7,8	8	11
+d3_pawa137m_inf_vs_c7_l0	d3_pawa137m_inf_vs_c7_l0	d3	pawa137m	inf	C7	l0	0.28	0.42	0.31	513	208	21	21	100.0	21	0.0001	3	14.29	0.003	3	0	0	3	2,3,4,5,6,7,8	7	11
+d3_pawa21m_inf_vs_c10_l0	d3_pawa21m_inf_vs_c10_l0	d3	pawa21m	inf	C10	l0	0.3	0.42	0.32	555	208	42	42	100.0	42	0.0001	7	16.67	0.0001	7	0	0	7	1,2,3,4,5,6,7,8	8	12
+d3_pawa21m_inf_vs_c11_l0	d3_pawa21m_inf_vs_c11_l0	d3	pawa21m	inf	C11	l0	0.34	0.44	0.37	555	208	44	44	100.0	44	0.0001	7	15.91	0.0001	7	0	0	7	1,2,3,4,5,6,7,8,9	9	12
+d3_pawa21m_inf_vs_c1_l0	d3_pawa21m_inf_vs_c1_l0	d3	pawa21m	inf	C1	l0	0.44	0.48	0.45	555	208	42	42	100.0	42	0.0001	6	14.29	0.0001	6	0	0	6	1,2,3,4,5,6,7,8,9,10	10	12
+d3_pawa21m_inf_vs_c2_l0	d3_pawa21m_inf_vs_c2_l0	d3	pawa21m	inf	C2	l0	0.32	0.44	0.35	555	208	40	39	97.5	40	0.0001	6	15.0	0.0001	6	0	0	6	1,2,3,4,5,6,7,8	8	12
+d3_pawa21m_inf_vs_c4_l0	d3_pawa21m_inf_vs_c4_l0	d3	pawa21m	inf	C4	l0	0.32	0.44	0.35	555	208	46	46	100.0	46	0.0001	8	17.39	0.0001	8	0	0	8	1,2,3,4,5,6,7,8,9	9	12
+d3_pawa21m_inf_vs_c5_l0	d3_pawa21m_inf_vs_c5_l0	d3	pawa21m	inf	C5	l0	0.44	0.47	0.45	555	208	42	42	100.0	42	0.0001	4	9.52	0.0032	4	0	0	4	2,3,4,5,6,7,8,9,10	9	12
+d3_pawa21m_inf_vs_c6_l0	d3_pawa21m_inf_vs_c6_l0	d3	pawa21m	inf	C6	l0	0.33	0.45	0.36	555	208	49	48	97.96	49	0.0001	9	18.37	0.0001	9	0	0	9	1,2,3,4,5,6,7,8,9	9	12
+d3_pawa21m_inf_vs_c7_l0	d3_pawa21m_inf_vs_c7_l0	d3	pawa21m	inf	C7	l0	0.37	0.46	0.39	555	208	36	36	100.0	36	0.0001	5	13.89	0.0004	5	0	0	5	1,2,3,4,5,6,7,8	8	12
+d3_pawa21m_inf_vs_c9_l0	d3_pawa21m_inf_vs_c9_l0	d3	pawa21m	inf	C9	l0	0.27	0.44	0.31	555	208	45	44	97.78	45	0.0001	6	13.33	0.0002	6	0	0	6	1,2,3,4,5,6,7,8	8	12
+d3_pawa53m_inf_vs_c1_l0	d3_pawa53m_inf_vs_c1_l0	d3	pawa53m	inf	C1	l0	0.27	0.45	0.31	513	208	29	29	100.0	29	0.0001	2	6.9	0.06429	2	0	0	2	1,2,3,4,5,6,7,8	8	11
+d3_pawa53m_inf_vs_c2_l0	d3_pawa53m_inf_vs_c2_l0	d3	pawa53m	inf	C2	l0	0.31	0.44	0.34	513	208	31	30	96.77	31	0.0001	4	12.9	0.0014	4	0	0	4	1,2,3,4,5,6,7,8	8	11
+d3_pawa53m_inf_vs_c8_l0	d3_pawa53m_inf_vs_c8_l0	d3	pawa53m	inf	C8	l0	0.3	0.43	0.33	513	208	26	26	100.0	26	0.0001	3	11.54	0.0065	3	0	0	3	1,2,3,4,5,6,7,8	8	11
+d3_pawa58m_inf_vs_c10_l0	d3_pawa58m_inf_vs_c10_l0	d3	pawa58m	inf	C10	l0	0.27	0.4	0.3	555	208	16	16	100.0	16	0.0001	2	12.5	0.0226	2	0	0	2	1,2,3,4,5,6,7	7	12
+d3_pawa58m_inf_vs_c11_l0	d3_pawa58m_inf_vs_c11_l0	d3	pawa58m	inf	C11	l0	0.23	0.37	0.27	555	208	5	5	100.0	5	0.0001	0	0.0	1.0	0	0	0	0	1,2,5,6	4	12
+d3_pawa58m_inf_vs_c1_l0	d3_pawa58m_inf_vs_c1_l0	d3	pawa58m	inf	C1	l0	0.27	0.39	0.3	555	208	13	13	100.0	13	0.0001	1	7.69	0.16628	1	0	0	1	1,3,4,5,6,7	6	12
+d3_pawa58m_inf_vs_c2_l0	d3_pawa58m_inf_vs_c2_l0	d3	pawa58m	inf	C2	l0	0.16	0.35	0.21	555	208	1	1	100.0	1	0.16818	0	0.0	1.0	0	0	0	0	1	1	12
+d3_pawa58m_inf_vs_c3_l0	d3_pawa58m_inf_vs_c3_l0	d3	pawa58m	inf	C3	l0	0.26	0.39	0.29	555	208	11	11	100.0	11	0.0001	1	9.09	0.14429	1	0	0	1	1,3,4,5,6,7	6	12
+d3_pawa58m_inf_vs_c4_l0	d3_pawa58m_inf_vs_c4_l0	d3	pawa58m	inf	C4	l0	0.25	0.4	0.28	555	208	20	20	100.0	20	0.0001	2	10.0	0.0352	2	0	0	2	1,2,3,4,5,6,7	7	12
+d3_pawa58m_inf_vs_c5_l0	d3_pawa58m_inf_vs_c5_l0	d3	pawa58m	inf	C5	l0	0.26	0.39	0.3	555	208	13	13	100.0	13	0.0001	1	7.69	0.17278	1	0	0	1	1,3,4,5,6,7	6	12
+d3_pawa58m_inf_vs_c6_l0	d3_pawa58m_inf_vs_c6_l0	d3	pawa58m	inf	C6	l0	0.24	0.39	0.28	555	208	18	18	100.0	18	0.0001	2	11.11	0.0272	2	0	0	2	1,2,3,4,5,6,7	7	12
+d3_pawa58m_inf_vs_c8_l0	d3_pawa58m_inf_vs_c8_l0	d3	pawa58m	inf	C8	l0	0.27	0.39	0.3	555	208	14	14	100.0	14	0.0001	1	7.14	0.18238	1	0	0	1	1,3,4,5,6,7	6	12
+d3_pawa58m_inf_vs_c9_l0	d3_pawa58m_inf_vs_c9_l0	d3	pawa58m	inf	C9	l0	0.24	0.39	0.28	555	208	38	36	94.74	38	0.0001	3	7.89	0.0163	3	0	0	3	1,2,3,4,5,6,7	7	12
+d3_pazp_conf_vs_c11_l0	d3_pazp_conf_vs_c11_l0	d3	pazp	conf	C11	l0	0.33	0.44	0.36	555	208	31	31	100.0	31	0.0001	4	12.9	0.001	4	0	0	4	1,2,3,4,5,6,7,8,9	9	12
+d3_pazp_conf_vs_c1_l0	d3_pazp_conf_vs_c1_l0	d3	pazp	conf	C1	l0	0.3	0.41	0.33	555	208	36	35	97.22	36	0.0001	3	8.33	0.0159	3	0	0	3	1,2,3,4,5,6,7,8	8	12
+d3_pazp_conf_vs_c2_l0	d3_pazp_conf_vs_c2_l0	d3	pazp	conf	C2	l0	0.3	0.41	0.34	555	208	52	50	96.15	52	0.0001	5	9.62	0.0014	5	0	0	5	1,2,3,4,5,6,7,8,9	9	12
+d3_pazp_conf_vs_c3_l0	d3_pazp_conf_vs_c3_l0	d3	pazp	conf	C3	l0	0.27	0.41	0.3	555	208	25	25	100.0	25	0.0001	1	4.0	0.30677	1	0	0	1	1,2,3,4,5,6,7,8	8	12
+d3_pazp_conf_vs_c4_l0	d3_pazp_conf_vs_c4_l0	d3	pazp	conf	C4	l0	0.31	0.42	0.34	555	208	28	28	100.0	28	0.0001	4	14.29	0.0008	4	0	0	4	1,2,3,4,5,6,7,8,9	9	12
+d3_pazp_conf_vs_c5_l0	d3_pazp_conf_vs_c5_l0	d3	pazp	conf	C5	l0	0.28	0.4	0.33	555	208	23	23	100.0	23	0.0001	2	8.7	0.0483	2	0	0	2	1,2,3,4,5,6,7,8	8	12
+d3_pazp_conf_vs_c6_l0	d3_pazp_conf_vs_c6_l0	d3	pazp	conf	C6	l0	0.35	0.44	0.37	555	208	57	55	96.49	57	0.0001	5	8.77	0.0011	5	0	0	5	1,2,3,4,5,6,7,8,9	9	12
+d3_pazp_conf_vs_c8_l0	d3_pazp_conf_vs_c8_l0	d3	pazp	conf	C8	l0	0.29	0.41	0.32	555	208	37	37	100.0	37	0.0001	3	8.11	0.0149	3	0	0	3	1,2,3,4,5,6,7,8	8	12
+d3_pazp_conf_vs_c9_l0	d3_pazp_conf_vs_c9_l0	d3	pazp	conf	C9	l0	0.31	0.45	0.34	555	208	67	63	94.03	67	0.0001	5	7.46	0.0029	5	0	0	5	1,2,3,4,5,6,7,8,9	9	12
+e1_chehdap_conf_vs_c10_l0	e1_chehdap_conf_vs_c10_l0	E1	chehdap	conf	C10	l0	0.23	0.41	0.27	567	208	7	7	100.0	7	0.0001	0	0.0	1.0	0	0	0	0	3,4,5,6,7	5	11
+e1_chehdap_conf_vs_c11_l0	e1_chehdap_conf_vs_c11_l0	E1	chehdap	conf	C11	l0	0.21	0.39	0.25	567	208	0	0	0.0	0	1.0	0	0.0	1.0	0	0	0	0		0	11
+e1_chehdap_conf_vs_c1_l0	e1_chehdap_conf_vs_c1_l0	E1	chehdap	conf	C1	l0	0.32	0.42	0.34	567	208	36	29	80.56	32	0.0001	2	5.56	0.09769	2	0	0	2	2,3,4,5,6,7,8,9,10,11	10	11
+e1_chehdap_conf_vs_c2_l1	e1_chehdap_conf_vs_c2_l1	E1	chehdap	conf	C2	l1	0.25	0.4	0.28	567	208	0	0	0.0	0	1.0	0	0.0	1.0	0	0	0	0		0	11
+e1_chehdap_conf_vs_c3_l0	e1_chehdap_conf_vs_c3_l0	E1	chehdap	conf	C3	l0	0.33	0.42	0.35	567	208	44	36	81.82	40	0.0001	2	4.55	0.13419	2	0	0	2	2,3,4,5,6,7,8,9,10,11	10	11
+e1_chehdap_conf_vs_c4_l0	e1_chehdap_conf_vs_c4_l0	E1	chehdap	conf	C4	l0	0.24	0.38	0.28	567	208	2	2	100.0	2	0.0292	0	0.0	1.0	0	0	0	0	10,11	2	11
+e1_chehdap_conf_vs_c5_l0	e1_chehdap_conf_vs_c5_l0	E1	chehdap	conf	C5	l0	0.31	0.41	0.33	567	208	22	18	81.82	19	0.0001	1	4.55	0.27897	1	0	0	1	8,9,10,11	4	11
+e1_chehdap_conf_vs_c6_l0	e1_chehdap_conf_vs_c6_l0	E1	chehdap	conf	C6	l0	0.21	0.39	0.25	567	208	7	6	85.71	7	0.0001	0	0.0	1.0	0	0	0	0	9,10	2	11
+e1_chehdap_conf_vs_c7_l1	e1_chehdap_conf_vs_c7_l1	E1	chehdap	conf	C7	l1	0.2	0.38	0.23	567	208	0	0	0.0	0	1.0	0	0.0	1.0	0	0	0	0		0	11
+e1_chehdap_conf_vs_c8_l1	e1_chehdap_conf_vs_c8_l1	E1	chehdap	conf	C8	l1	0.35	0.42	0.37	567	208	35	30	85.71	33	0.0001	0	0.0	1.0	0	0	0	0	8,9,10,11	4	11
+e1_chehdap_conf_vs_c9_l0	e1_chehdap_conf_vs_c9_l0	E1	chehdap	conf	C9	l0	0.3	0.4	0.33	567	208	22	19	86.36	20	0.0001	1	4.55	0.27167	1	0	0	1	3,4,5,6,7,8,9,10,11	9	11
+e1_cmemm_conf_vs_c10_l0	e1_cmemm_conf_vs_c10_l0	E1	cmemm	conf	C10	l0	0.41	0.41	0.41	609	208	57	42	73.68	46	0.0001	3	5.26	0.045	3	0	0	3	8,9,10,11,12	5	12
+e1_cmemm_conf_vs_c11_l0	e1_cmemm_conf_vs_c11_l0	E1	cmemm	conf	C11	l0	0.32	0.4	0.34	609	208	43	32	74.42	33	0.0001	3	6.98	0.0237	3	0	0	3	8,9,10,11,12	5	12
+e1_cmemm_conf_vs_c1_l0	e1_cmemm_conf_vs_c1_l0	E1	cmemm	conf	C1	l0	0.37	0.4	0.38	609	208	32	26	81.25	27	0.0001	2	6.25	0.07709	2	0	0	2	8,9,10,11,12	5	12
+e1_cmemm_conf_vs_c2_l1	e1_cmemm_conf_vs_c2_l1	E1	cmemm	conf	C2	l1	0.42	0.43	0.42	609	208	47	36	76.6	39	0.0001	4	8.51	0.0055	4	0	0	4	8,9,10,11,12	5	12
+e1_cmemm_conf_vs_c3_l0	e1_cmemm_conf_vs_c3_l0	E1	cmemm	conf	C3	l0	0.35	0.4	0.37	609	208	34	27	79.41	29	0.0001	2	5.88	0.08369	2	0	0	2	8,9,10,11,12	5	12
+e1_cmemm_conf_vs_c4_l0	e1_cmemm_conf_vs_c4_l0	E1	cmemm	conf	C4	l0	0.35	0.4	0.36	609	208	34	26	76.47	27	0.0001	2	5.88	0.08829	2	0	0	2	8,9,10,11,12	5	12
+e1_cmemm_conf_vs_c5_l0	e1_cmemm_conf_vs_c5_l0	E1	cmemm	conf	C5	l0	0.37	0.41	0.38	609	208	36	28	77.78	30	0.0001	2	5.56	0.08929	2	0	0	2	8,9,10,11,12	5	12
+e1_cmemm_conf_vs_c6_l0	e1_cmemm_conf_vs_c6_l0	E1	cmemm	conf	C6	l0	0.42	0.41	0.42	609	208	59	46	77.97	49	0.0001	4	6.78	0.0109	4	0	0	4	8,9,10,11,12	5	12
+e1_cmemm_conf_vs_c7_l1	e1_cmemm_conf_vs_c7_l1	E1	cmemm	conf	C7	l1	0.31	0.4	0.33	609	208	27	20	74.07	21	0.0001	2	7.41	0.05629	2	0	0	2	8,9,10,11,12	5	12
+e1_cmemm_conf_vs_c8_l1	e1_cmemm_conf_vs_c8_l1	E1	cmemm	conf	C8	l1	0.33	0.4	0.35	609	208	37	29	78.38	31	0.0001	2	5.41	0.09639	2	0	0	2	8,9,10,11,12	5	12
+e1_cmemm_conf_vs_c9_l0	e1_cmemm_conf_vs_c9_l0	E1	cmemm	conf	C9	l0	0.38	0.41	0.39	609	208	49	39	79.59	41	0.0001	3	6.12	0.0344	3	0	0	3	8,9,10,11,12	5	12
+e1_pawa100p_inf_vs_c10_l0	e1_pawa100p_inf_vs_c10_l0	E1	pawa100p	inf	C10	l0	0.24	0.41	0.28	567	208	7	7	100.0	7	0.0001	0	0.0	1.0	0	0	0	0	3,4,5,6,7	5	11
+e1_pawa100p_inf_vs_c11_l0	e1_pawa100p_inf_vs_c11_l0	E1	pawa100p	inf	C11	l0	0.23	0.39	0.27	567	208	30	25	83.33	28	0.0001	2	6.67	0.06479	2	0	0	2	2,3,4,5,6,7,8,9,10,11	10	11
+e1_pawa100p_inf_vs_c1_l0	e1_pawa100p_inf_vs_c1_l0	E1	pawa100p	inf	C1	l0	0.32	0.42	0.34	567	208	36	29	80.56	32	0.0001	2	5.56	0.09369	2	0	0	2	2,3,4,5,6,7,8,9,10,11	10	11
+e1_pawa100p_inf_vs_c2_l1	e1_pawa100p_inf_vs_c2_l1	E1	pawa100p	inf	C2	l1	0.21	0.38	0.25	567	208	1	1	100.0	1	0.16858	0	0.0	1.0	0	0	0	0	10	1	11
+e1_pawa100p_inf_vs_c3_l0	e1_pawa100p_inf_vs_c3_l0	E1	pawa100p	inf	C3	l0	0.33	0.42	0.35	567	208	44	36	81.82	40	0.0001	2	4.55	0.13379	2	0	0	2	2,3,4,5,6,7,8,9,10,11	10	11
+e1_pawa100p_inf_vs_c4_l0	e1_pawa100p_inf_vs_c4_l0	E1	pawa100p	inf	C4	l0	0.24	0.38	0.28	567	208	2	2	100.0	2	0.0295	0	0.0	1.0	0	0	0	0	10,11	2	11
+e1_pawa100p_inf_vs_c5_l0	e1_pawa100p_inf_vs_c5_l0	E1	pawa100p	inf	C5	l0	0.31	0.41	0.33	567	208	22	18	81.82	19	0.0001	1	4.55	0.28457	1	0	0	1	8,9,10,11	4	11
+e1_pawa100p_inf_vs_c6_l0	e1_pawa100p_inf_vs_c6_l0	E1	pawa100p	inf	C6	l0	0.21	0.39	0.25	567	208	7	6	85.71	7	0.0001	0	0.0	1.0	0	0	0	0	9,10	2	11
+e1_pawa100p_inf_vs_c7_l1	e1_pawa100p_inf_vs_c7_l1	E1	pawa100p	inf	C7	l1	0.2	0.38	0.23	567	208	0	0	0.0	0	1.0	0	0.0	1.0	0	0	0	0		0	11
+e1_pawa100p_inf_vs_c8_l1	e1_pawa100p_inf_vs_c8_l1	E1	pawa100p	inf	C8	l1	0.35	0.42	0.37	567	208	35	30	85.71	33	0.0001	0	0.0	1.0	0	0	0	0	8,9,10,11	4	11
+e1_pawa100p_inf_vs_c9_l0	e1_pawa100p_inf_vs_c9_l0	E1	pawa100p	inf	C9	l0	0.3	0.4	0.33	567	208	22	19	86.36	20	0.0001	1	4.55	0.27377	1	0	0	1	3,4,5,6,7,8,9,10,11	9	11
+e1_pawa87p_inf_vs_c10_l0	e1_pawa87p_inf_vs_c10_l0	E1	pawa87p	inf	C10	l0	0.34	0.4	0.35	609	208	38	28	73.68	30	0.0001	2	5.26	0.10219	2	0	0	2	8,9,10,11,12	5	12
+e1_pawa87p_inf_vs_c11_l0	e1_pawa87p_inf_vs_c11_l0	E1	pawa87p	inf	C11	l0	0.3	0.4	0.32	609	208	41	32	78.05	33	0.0001	3	7.32	0.0206	3	0	0	3	8,9,10,11,12	5	12
+e1_pawa87p_inf_vs_c1_l0	e1_pawa87p_inf_vs_c1_l0	E1	pawa87p	inf	C1	l0	0.36	0.41	0.38	609	208	35	26	74.29	28	0.0001	2	5.71	0.09029	2	0	0	2	8,9,10,11,12	5	12
+e1_pawa87p_inf_vs_c2_l1	e1_pawa87p_inf_vs_c2_l1	E1	pawa87p	inf	C2	l1	0.37	0.42	0.38	609	208	51	40	78.43	43	0.0001	4	7.84	0.0078	4	0	0	4	8,9,10,11,12	5	12
+e1_pawa87p_inf_vs_c3_l0	e1_pawa87p_inf_vs_c3_l0	E1	pawa87p	inf	C3	l0	0.38	0.44	-99.6	609	208	33	26	78.79	28	0.0001	2	6.06	0.08149	2	0	0	2	8,9,10,11,12	5	12
+e1_pawa87p_inf_vs_c4_l0	e1_pawa87p_inf_vs_c4_l0	E1	pawa87p	inf	C4	l0	0.34	0.4	0.35	609	208	42	33	78.57	34	0.0001	4	9.52	0.0021	4	0	0	4	8,9,10,11,12	5	12
+e1_pawa87p_inf_vs_c5_l0	e1_pawa87p_inf_vs_c5_l0	E1	pawa87p	inf	C5	l0	0.37	0.41	0.38	609	208	34	27	79.41	29	0.0001	2	5.88	0.08589	2	0	0	2	8,9,10,11,12	5	12
+e1_pawa87p_inf_vs_c6_l0	e1_pawa87p_inf_vs_c6_l0	E1	pawa87p	inf	C6	l0	0.44	0.42	0.44	609	208	64	48	75.0	51	0.0001	4	6.25	0.0138	4	0	0	4	8,9,10,11,12	5	12
+e1_pawa87p_inf_vs_c7_l1	e1_pawa87p_inf_vs_c7_l1	E1	pawa87p	inf	C7	l1	0.32	0.4	0.34	609	208	27	20	74.07	21	0.0001	2	7.41	0.05859	2	0	0	2	8,9,10,11,12	5	12
+e1_pawa87p_inf_vs_c8_l1	e1_pawa87p_inf_vs_c8_l1	E1	pawa87p	inf	C8	l1	0.37	0.41	0.38	609	208	36	27	75.0	30	0.0001	2	5.56	0.09839	2	0	0	2	8,9,10,11,12	5	12
+e1_pawa87p_inf_vs_c9_l0	e1_pawa87p_inf_vs_c9_l0	E1	pawa87p	inf	C9	l0	0.38	0.4	0.39	609	208	49	38	77.55	41	0.0001	3	6.12	0.0311	3	0	0	3	8,9,10,11,12	5	12
+e1_payp_conf_vs_c10_l0	e1_payp_conf_vs_c10_l0	E1	payp	conf	C10	l0	0.21	0.38	0.25	567	208	0	0	0.0	0	1.0	0	0.0	1.0	0	0	0	0		0	11
+e1_payp_conf_vs_c11_l0	e1_payp_conf_vs_c11_l0	E1	payp	conf	C11	l0	0.21	0.4	0.25	567	208	1	1	100.0	1	0.16758	0	0.0	1.0	0	0	0	0	10	1	11
+e1_payp_conf_vs_c1_l0	e1_payp_conf_vs_c1_l0	E1	payp	conf	C1	l0	0.32	0.41	0.34	567	208	20	17	85.0	18	0.0001	0	0.0	1.0	0	0	0	0	8,9,10,11	4	11
+e1_payp_conf_vs_c2_l1	e1_payp_conf_vs_c2_l1	E1	payp	conf	C2	l1	0.28	0.4	0.31	567	208	20	16	80.0	17	0.0001	1	5.0	0.25637	1	0	0	1	8,9,10,11	4	11
+e1_payp_conf_vs_c3_l0	e1_payp_conf_vs_c3_l0	E1	payp	conf	C3	l0	0.3	0.4	0.32	567	208	14	12	85.71	12	0.0001	1	7.14	0.18298	1	0	0	1	7,8,9,10,11	5	11
+e1_payp_conf_vs_c4_l0	e1_payp_conf_vs_c4_l0	E1	payp	conf	C4	l0	0.27	0.4	0.3	567	208	10	7	70.0	8	0.0002	1	10.0	0.13979	1	0	0	1	8,9,10,11	4	11
+e1_payp_conf_vs_c5_l0	e1_payp_conf_vs_c5_l0	E1	payp	conf	C5	l0	0.31	0.41	0.33	567	208	17	15	88.24	16	0.0001	0	0.0	1.0	0	0	0	0	8,9,10,11	4	11
+e1_payp_conf_vs_c6_l0	e1_payp_conf_vs_c6_l0	E1	payp	conf	C6	l0	0.29	0.4	0.32	567	208	28	22	78.57	25	0.0001	1	3.57	0.33527	1	0	0	1	8,9,10,11	4	11
+e1_payp_conf_vs_c7_l1	e1_payp_conf_vs_c7_l1	E1	payp	conf	C7	l1	0.23	0.42	0.27	567	208	3	3	100.0	3	0.0044	0	0.0	1.0	0	0	0	0	10,11	2	11
+e1_payp_conf_vs_c8_l1	e1_payp_conf_vs_c8_l1	E1	payp	conf	C8	l1	0.33	0.4	0.35	567	208	29	25	86.21	27	0.0001	1	3.45	0.34507	1	0	0	1	8,9,10,11	4	11
+e1_payp_conf_vs_c9_l0	e1_payp_conf_vs_c9_l0	E1	payp	conf	C9	l0	0.38	0.41	0.39	567	208	33	28	84.85	32	0.0001	3	9.09	0.0124	3	0	0	3	8,9,10,11	4	11
+e2_coecp_conf_vs_c10_l1	e2_coecp_conf_vs_c10_l1	E2	coecp	conf	C10	l1	0.23	0.42	0.27	525	208	0	0	0.0	0	1.0	0	0.0	1.0	0	0	0	0		0	10
+e2_coecp_conf_vs_c11_l1	e2_coecp_conf_vs_c11_l1	E2	coecp	conf	C11	l1	0.21	0.37	0.25	525	208	2	0	0.0	0	1.0	0	0.0	1.0	0	0	0	0		0	10
+e2_coecp_conf_vs_c2_l0	e2_coecp_conf_vs_c2_l0	E2	coecp	conf	C2	l0	0.2	0.35	0.24	525	208	0	0	0.0	0	1.0	0	0.0	1.0	0	0	0	0		0	10
+e2_coecp_conf_vs_c3_l1	e2_coecp_conf_vs_c3_l1	E2	coecp	conf	C3	l1	0.22	0.44	0.27	525	208	14	13	92.86	14	0.0001	0	0.0	1.0	0	0	0	0	5,6	2	10
+e2_coecp_conf_vs_c4_l1	e2_coecp_conf_vs_c4_l1	E2	coecp	conf	C4	l1	0.2	0.38	0.24	525	208	29	20	68.97	21	0.0001	2	6.9	0.06939	2	0	0	2	6,7,8,9,10	5	10
+e2_coecp_conf_vs_c5_l1	e2_coecp_conf_vs_c5_l1	E2	coecp	conf	C5	l1	0.31	0.41	0.33	525	208	41	31	75.61	32	0.0001	3	7.32	0.0207	2	0	0	3	6,7,8,9,10	5	10
+e2_coecp_conf_vs_c7_l0	e2_coecp_conf_vs_c7_l0	E2	coecp	conf	C7	l0	0.2	0.4	0.25	525	208	0	0	0.0	0	1.0	0	0.0	1.0	0	0	0	0		0	10
+e2_coecp_conf_vs_c8_l1	e2_coecp_conf_vs_c8_l1	E2	coecp	conf	C8	l1	0.22	0.43	0.27	525	208	5	5	100.0	5	0.0005	0	0.0	1.0	0	0	0	0	6,9	2	10
+e2_coecp_conf_vs_c9_l1	e2_coecp_conf_vs_c9_l1	E2	coecp	conf	C9	l1	0.22	0.43	0.27	525	208	0	0	0.0	0	1.0	0	0.0	1.0	0	0	0	0		0	10
+e3_coefp_conf_vs_c10_l1	e3_coefp_conf_vs_c10_l1	E3	coefp	conf	C10	l1	0.19	0.4	0.23	567	208	0	0	0.0	0	1.0	0	0.0	1.0	0	0	0	0		0	11
+e3_coefp_conf_vs_c11_l1	e3_coefp_conf_vs_c11_l1	E3	coefp	conf	C11	l1	0.23	0.38	0.26	567	208	0	0	0.0	0	1.0	0	0.0	1.0	0	0	0	0		0	11
+e3_coefp_conf_vs_c1_l1	e3_coefp_conf_vs_c1_l1	E3	coefp	conf	C1	l1	0.29	0.41	0.32	567	208	16	14	87.5	14	0.0001	1	6.25	0.20548	1	0	0	1	8,9,10,11	4	11
+e3_coefp_conf_vs_c2_l0	e3_coefp_conf_vs_c2_l0	E3	coefp	conf	C2	l0	0.27	0.39	0.3	567	208	4	3	75.0	3	0.0044	0	0.0	1.0	0	0	0	0	10	1	11
+e3_coefp_conf_vs_c3_l0	e3_coefp_conf_vs_c3_l0	E3	coefp	conf	C3	l0	0.29	0.4	-99.68	567	208	11	9	81.82	9	0.0001	2	18.18	0.0104	1	0	0	2	8,9,10,11	4	11
+e3_coefp_conf_vs_c4_l1	e3_coefp_conf_vs_c4_l1	E3	coefp	conf	C4	l1	0.26	0.39	0.29	567	208	9	7	77.78	7	0.0001	0	0.0	1.0	0	0	0	0	8,9,10,11	4	11
+e3_coefp_conf_vs_c5_l1	e3_coefp_conf_vs_c5_l1	E3	coefp	conf	C5	l1	0.33	0.42	-99.65	567	208	23	18	78.26	19	0.0001	1	4.35	0.29057	1	0	0	1	8,9,10,11	4	11
+e3_coefp_conf_vs_c6_l0	e3_coefp_conf_vs_c6_l0	E3	coefp	conf	C6	l0	0.27	0.4	0.3	567	208	13	9	69.23	10	0.0001	0	0.0	1.0	0	0	0	0	8,9,10	3	11
+e3_coefp_conf_vs_c8_l1	e3_coefp_conf_vs_c8_l1	E3	coefp	conf	C8	l1	0.31	0.42	0.34	567	208	20	15	75.0	15	0.0001	1	5.0	0.25197	1	0	0	1	8,9,10,11	4	11
+e3_coefp_conf_vs_c9_l0	e3_coefp_conf_vs_c9_l0	E3	coefp	conf	C9	l0	0.31	0.41	0.33	567	208	18	13	72.22	14	0.0001	0	0.0	1.0	0	0	0	0	8,9,10,11	4	11
+e3_pawa46p_inf_vs_c10_l1	e3_pawa46p_inf_vs_c10_l1	E3	pawa46p	inf	C10	l1	0.3	0.4	0.32	609	208	17	9	52.94	9	0.0001	3	17.65	0.0025	2	0	0	3	8,9,10,11,12	5	12
+e3_pawa46p_inf_vs_c11_l1	e3_pawa46p_inf_vs_c11_l1	E3	pawa46p	inf	C11	l1	0.29	0.4	0.32	609	208	19	9	47.37	9	0.0001	2	10.53	0.0308	1	0	0	2	8,9,10,11,12	5	12
+e3_pawa46p_inf_vs_c1_l1	e3_pawa46p_inf_vs_c1_l1	E3	pawa46p	inf	C1	l1	0.29	0.4	0.31	609	208	30	21	70.0	23	0.0001	2	6.67	0.07209	1	0	0	2	8,9,10,11,12	5	12
+e3_pawa46p_inf_vs_c2_l0	e3_pawa46p_inf_vs_c2_l0	E3	pawa46p	inf	C2	l0	0.34	0.4	0.35	609	208	18	13	72.22	13	0.0001	1	5.56	0.22428	1	0	0	1	8,9,10,11,12	5	12
+e3_pawa46p_inf_vs_c3_l0	e3_pawa46p_inf_vs_c3_l0	E3	pawa46p	inf	C3	l0	0.35	0.4	0.37	609	208	22	15	68.18	15	0.0001	2	9.09	0.0373	1	0	0	2	8,9,10,11,12	5	12
+e3_pawa46p_inf_vs_c4_l1	e3_pawa46p_inf_vs_c4_l1	E3	pawa46p	inf	C4	l1	0.3	0.4	0.32	609	208	10	6	60.0	6	0.0001	1	10.0	0.13489	1	0	0	1	8,10,11,12	4	12
+e3_pawa46p_inf_vs_c5_l1	e3_pawa46p_inf_vs_c5_l1	E3	pawa46p	inf	C5	l1	0.39	0.41	0.4	609	208	33	24	72.73	26	0.0001	2	6.06	0.08419	1	0	0	2	8,9,10,11,12	5	12
+e3_pawa46p_inf_vs_c6_l0	e3_pawa46p_inf_vs_c6_l0	E3	pawa46p	inf	C6	l0	0.24	0.37	0.27	609	208	0	0	0.0	0	1.0	0	0.0	1.0	0	0	0	0		0	12
+e3_pawa46p_inf_vs_c7_l0	e3_pawa46p_inf_vs_c7_l0	E3	pawa46p	inf	C7	l0	0.29	0.39	0.31	609	208	8	4	50.0	4	0.0009	0	0.0	1.0	0	0	0	0	10,11,12	3	12
+e3_pawa46p_inf_vs_c8_l1	e3_pawa46p_inf_vs_c8_l1	E3	pawa46p	inf	C8	l1	0.3	0.4	0.32	609	208	41	31	75.61	33	0.0001	2	4.88	0.11759	1	0	0	2	8,9,10,11,12	5	12
+e3_pawa46p_inf_vs_c9_l0	e3_pawa46p_inf_vs_c9_l0	E3	pawa46p	inf	C9	l0	0.36	0.4	0.37	609	208	31	21	67.74	23	0.0001	3	9.68	0.0098	2	0	0	3	8,9,10,11,12	5	12
+e3_pawa58m_inf_vs_c10_l1	e3_pawa58m_inf_vs_c10_l1	E3	pawa58m	inf	C10	l1	0.3	0.4	0.32	609	208	17	9	52.94	9	0.0001	3	17.65	0.0007	2	0	0	3	8,9,10,11,12	5	12
+e3_pawa58m_inf_vs_c11_l1	e3_pawa58m_inf_vs_c11_l1	E3	pawa58m	inf	C11	l1	0.29	0.4	0.32	609	208	19	9	47.37	9	0.0001	2	10.53	0.0317	1	0	0	2	8,9,10,11,12	5	12
+e3_pawa58m_inf_vs_c1_l1	e3_pawa58m_inf_vs_c1_l1	E3	pawa58m	inf	C1	l1	0.29	0.4	0.31	609	208	30	21	70.0	23	0.0001	2	6.67	0.06859	1	0	0	2	8,9,10,11,12	5	12
+e3_pawa58m_inf_vs_c2_l0	e3_pawa58m_inf_vs_c2_l0	E3	pawa58m	inf	C2	l0	0.34	0.4	0.35	609	208	18	13	72.22	13	0.0001	1	5.56	0.22998	1	0	0	1	8,9,10,11,12	5	12
+e3_pawa58m_inf_vs_c3_l0	e3_pawa58m_inf_vs_c3_l0	E3	pawa58m	inf	C3	l0	0.35	0.4	0.37	609	208	22	15	68.18	15	0.0001	2	9.09	0.0361	1	0	0	2	8,9,10,11,12	5	12
+e3_pawa58m_inf_vs_c4_l1	e3_pawa58m_inf_vs_c4_l1	E3	pawa58m	inf	C4	l1	0.3	0.4	0.32	609	208	10	6	60.0	6	0.0001	1	10.0	0.13569	1	0	0	1	8,10,11,12	4	12
+e3_pawa58m_inf_vs_c5_l1	e3_pawa58m_inf_vs_c5_l1	E3	pawa58m	inf	C5	l1	0.39	0.41	0.4	609	208	33	24	72.73	26	0.0001	2	6.06	0.08309	1	0	0	2	8,9,10,11,12	5	12
+e3_pawa58m_inf_vs_c6_l0	e3_pawa58m_inf_vs_c6_l0	E3	pawa58m	inf	C6	l0	0.24	0.37	0.27	609	208	0	0	0.0	0	1.0	0	0.0	1.0	0	0	0	0		0	12
+e3_pawa58m_inf_vs_c7_l0	e3_pawa58m_inf_vs_c7_l0	E3	pawa58m	inf	C7	l0	0.29	0.39	0.31	609	208	8	4	50.0	4	0.0008	0	0.0	1.0	0	0	0	0	10,11,12	3	12
+e3_pawa58m_inf_vs_c8_l1	e3_pawa58m_inf_vs_c8_l1	E3	pawa58m	inf	C8	l1	0.3	0.4	0.32	609	208	41	31	75.61	33	0.0001	2	4.88	0.11489	1	0	0	2	8,9,10,11,12	5	12
+e3_pawa58m_inf_vs_c9_l0	e3_pawa58m_inf_vs_c9_l0	E3	pawa58m	inf	C9	l0	0.36	0.4	0.37	609	208	31	21	67.74	23	0.0001	3	9.68	0.011	2	0	0	3	8,9,10,11,12	5	12
+e3_pazp_conf_vs_c10_l1	e3_pazp_conf_vs_c10_l1	E3	pazp	conf	C10	l1	0.3	0.4	0.32	609	208	17	9	52.94	9	0.0001	3	17.65	0.0011	2	0	0	3	8,9,10,11,12	5	12
+e3_pazp_conf_vs_c11_l1	e3_pazp_conf_vs_c11_l1	E3	pazp	conf	C11	l1	0.29	0.4	0.32	609	208	19	9	47.37	9	0.0001	2	10.53	0.0286	1	0	0	2	8,9,10,11,12	5	12
+e3_pazp_conf_vs_c1_l1	e3_pazp_conf_vs_c1_l1	E3	pazp	conf	C1	l1	0.29	0.4	0.31	609	208	30	21	70.0	23	0.0001	2	6.67	0.07169	1	0	0	2	8,9,10,11,12	5	12
+e3_pazp_conf_vs_c2_l0	e3_pazp_conf_vs_c2_l0	E3	pazp	conf	C2	l0	0.34	0.4	0.35	609	208	18	13	72.22	13	0.0001	1	5.56	0.23468	1	0	0	1	8,9,10,11,12	5	12
+e3_pazp_conf_vs_c3_l0	e3_pazp_conf_vs_c3_l0	E3	pazp	conf	C3	l0	0.35	0.4	0.37	609	208	22	15	68.18	15	0.0001	2	9.09	0.043	1	0	0	2	8,9,10,11,12	5	12
+e3_pazp_conf_vs_c4_l1	e3_pazp_conf_vs_c4_l1	E3	pazp	conf	C4	l1	0.3	0.4	0.32	609	208	10	6	60.0	6	0.0001	1	10.0	0.13579	1	0	0	1	8,10,11,12	4	12
+e3_pazp_conf_vs_c5_l1	e3_pazp_conf_vs_c5_l1	E3	pazp	conf	C5	l1	0.39	0.41	0.4	609	208	33	24	72.73	26	0.0001	2	6.06	0.08129	1	0	0	2	8,9,10,11,12	5	12
+e3_pazp_conf_vs_c6_l0	e3_pazp_conf_vs_c6_l0	E3	pazp	conf	C6	l0	0.24	0.37	0.27	609	208	0	0	0.0	0	1.0	0	0.0	1.0	0	0	0	0		0	12
+e3_pazp_conf_vs_c7_l0	e3_pazp_conf_vs_c7_l0	E3	pazp	conf	C7	l0	0.29	0.39	0.31	609	208	8	4	50.0	4	0.0007	0	0.0	1.0	0	0	0	0	10,11,12	3	12
+e3_pazp_conf_vs_c8_l1	e3_pazp_conf_vs_c8_l1	E3	pazp	conf	C8	l1	0.3	0.4	0.32	609	208	41	31	75.61	33	0.0001	2	4.88	0.12189	1	0	0	2	8,9,10,11,12	5	12
+e3_pazp_conf_vs_c9_l0	e3_pazp_conf_vs_c9_l0	E3	pazp	conf	C9	l0	0.36	0.4	0.37	609	208	31	21	67.74	23	0.0001	3	9.68	0.0102	2	0	0	3	8,9,10,11,12	5	12
+e4_patgp_inf_vs_c10_l0	e4_patgp_inf_vs_c10_l0	e4	patgp	inf	C10	l0	0.43	0.43	0.43	567	208	59	48	81.36	51	0.0001	3	5.08	0.05689	2	0	0	3	3,4,8,9,10,11	6	11
+e4_patgp_inf_vs_c11_l0	e4_patgp_inf_vs_c11_l0	e4	patgp	inf	C11	l0	0.2	0.35	0.24	567	208	7	0	0.0	0	1.0	0	0.0	1.0	0	0	0	0		0	11
+e4_patgp_inf_vs_c1_l0	e4_patgp_inf_vs_c1_l0	e4	patgp	inf	C1	l0	0.28	0.42	-99.69	567	208	17	14	82.35	16	0.0001	0	0.0	1.0	0	0	0	0	9,10,11	3	11
+e4_patgp_inf_vs_c2_l0	e4_patgp_inf_vs_c2_l0	e4	patgp	inf	C2	l0	0.4	0.41	0.4	567	208	49	39	79.59	42	0.0001	3	6.12	0.0353	2	0	0	3	8,9,10,11	4	11
+e4_patgp_inf_vs_c3_l0	e4_patgp_inf_vs_c3_l0	e4	patgp	inf	C3	l0	0.21	0.37	0.25	567	208	0	0	0.0	0	1.0	0	0.0	1.0	0	0	0	0		0	11
+e4_patgp_inf_vs_c4_l0	e4_patgp_inf_vs_c4_l0	e4	patgp	inf	C4	l0	0.26	0.43	-99.7	567	208	11	9	81.82	9	0.0001	1	9.09	0.14829	1	0	0	1	8,9,10,11	4	11
+e4_patgp_inf_vs_c5_l0	e4_patgp_inf_vs_c5_l0	e4	patgp	inf	C5	l0	0.24	0.39	0.27	567	208	4	3	75.0	3	0.0038	0	0.0	1.0	0	0	0	0	10,11	2	11
+e4_patgp_inf_vs_c6_l0	e4_patgp_inf_vs_c6_l0	e4	patgp	inf	C6	l0	0.37	0.4	0.38	567	208	50	42	84.0	45	0.0001	3	6.0	0.0352	2	0	0	3	3,4,8,9,10,11	6	11
+e4_patgp_inf_vs_c7_l0	e4_patgp_inf_vs_c7_l0	e4	patgp	inf	C7	l0	0.19	0.36	0.23	567	208	0	0	0.0	0	1.0	0	0.0	1.0	0	0	0	0		0	11
+e4_patgp_inf_vs_c8_l0	e4_patgp_inf_vs_c8_l0	e4	patgp	inf	C8	l0	0.3	0.4	0.32	567	208	40	29	72.5	30	0.0001	2	5.0	0.11149	1	0	0	2	7,8,9,10,11	5	11
+e4_patgp_inf_vs_c9_l0	e4_patgp_inf_vs_c9_l0	e4	patgp	inf	C9	l0	0.45	0.43	0.45	567	208	60	43	71.67	47	0.0001	3	5.0	0.05619	2	0	0	3	3,4,8,9,10,11	6	11
+e4_pawa137m_inf_vs_c10_l0	e4_pawa137m_inf_vs_c10_l0	e4	pawa137m	inf	C10	l0	0.43	0.43	0.43	567	208	59	48	81.36	51	0.0001	3	5.08	0.05339	2	0	0	3	3,4,8,9,10,11	6	11
+e4_pawa137m_inf_vs_c11_l0	e4_pawa137m_inf_vs_c11_l0	e4	pawa137m	inf	C11	l0	0.2	0.35	0.24	567	208	7	0	0.0	0	1.0	0	0.0	1.0	0	0	0	0		0	11
+e4_pawa137m_inf_vs_c1_l0	e4_pawa137m_inf_vs_c1_l0	e4	pawa137m	inf	C1	l0	0.28	0.42	-99.69	567	208	17	14	82.35	16	0.0001	0	0.0	1.0	0	0	0	0	9,10,11	3	11
+e4_pawa137m_inf_vs_c2_l0	e4_pawa137m_inf_vs_c2_l0	e4	pawa137m	inf	C2	l0	0.4	0.41	0.4	567	208	49	39	79.59	42	0.0001	3	6.12	0.0308	2	0	0	3	8,9,10,11	4	11
+e4_pawa137m_inf_vs_c4_l0	e4_pawa137m_inf_vs_c4_l0	e4	pawa137m	inf	C4	l0	0.26	0.43	-99.7	567	208	11	9	81.82	9	0.0001	1	9.09	0.14739	1	0	0	1	8,9,10,11	4	11
+e4_pawa137m_inf_vs_c5_l0	e4_pawa137m_inf_vs_c5_l0	e4	pawa137m	inf	C5	l0	0.24	0.39	0.27	567	208	4	3	75.0	3	0.0043	0	0.0	1.0	0	0	0	0	10,11	2	11
+e4_pawa137m_inf_vs_c6_l0	e4_pawa137m_inf_vs_c6_l0	e4	pawa137m	inf	C6	l0	0.37	0.4	0.38	567	208	50	42	84.0	45	0.0001	3	6.0	0.0358	2	0	0	3	3,4,8,9,10,11	6	11
+e4_pawa137m_inf_vs_c7_l0	e4_pawa137m_inf_vs_c7_l0	e4	pawa137m	inf	C7	l0	0.19	0.36	0.23	567	208	0	0	0.0	0	1.0	0	0.0	1.0	0	0	0	0		0	11
+e4_pawa137m_inf_vs_c8_l0	e4_pawa137m_inf_vs_c8_l0	e4	pawa137m	inf	C8	l0	0.3	0.4	0.32	567	208	40	29	72.5	30	0.0001	2	5.0	0.11139	1	0	0	2	7,8,9,10,11	5	11
+e4_pawa137m_inf_vs_c9_l0	e4_pawa137m_inf_vs_c9_l0	e4	pawa137m	inf	C9	l0	0.45	0.43	0.45	567	208	60	43	71.67	47	0.0001	3	5.0	0.05819	2	0	0	3	3,4,8,9,10,11	6	11
+e4_pawa28m_inf_vs_c10_l0	e4_pawa28m_inf_vs_c10_l0	e4	pawa28m	inf	C10	l0	0.32	0.4	0.34	609	208	33	24	72.73	25	0.0001	2	6.06	0.08319	2	0	0	2	8,9,10,11,12	5	12
+e4_pawa28m_inf_vs_c11_l0	e4_pawa28m_inf_vs_c11_l0	e4	pawa28m	inf	C11	l0	0.32	0.39	0.34	609	208	31	22	70.97	23	0.0001	2	6.45	0.07289	2	0	0	2	8,9,10,11,12	5	12
+e4_pawa28m_inf_vs_c1_l0	e4_pawa28m_inf_vs_c1_l0	e4	pawa28m	inf	C1	l0	0.32	0.39	0.34	609	208	29	21	72.41	22	0.0001	2	6.9	0.06809	2	0	0	2	8,9,10,11,12	5	12
+e4_pawa28m_inf_vs_c2_l0	e4_pawa28m_inf_vs_c2_l0	e4	pawa28m	inf	C2	l0	0.38	0.42	0.39	609	208	37	28	75.68	29	0.0001	2	5.41	0.09829	2	0	0	2	8,9,10,11,12	5	12
+e4_pawa28m_inf_vs_c3_l0	e4_pawa28m_inf_vs_c3_l0	e4	pawa28m	inf	C3	l0	0.31	0.41	0.34	609	208	22	16	72.73	17	0.0001	2	9.09	0.038	2	0	0	2	8,9,10,11,12	5	12
+e4_pawa28m_inf_vs_c4_l0	e4_pawa28m_inf_vs_c4_l0	e4	pawa28m	inf	C4	l0	0.31	0.39	-99.67	609	208	35	26	74.29	27	0.0001	2	5.71	0.09259	2	0	0	2	8,9,10,11,12	5	12
+e4_pawa28m_inf_vs_c5_l0	e4_pawa28m_inf_vs_c5_l0	e4	pawa28m	inf	C5	l0	0.3	0.39	0.32	609	208	33	25	75.76	28	0.0001	2	6.06	0.08099	2	0	0	2	8,9,10,11,12	5	12
+e4_pawa28m_inf_vs_c6_l0	e4_pawa28m_inf_vs_c6_l0	e4	pawa28m	inf	C6	l0	0.45	0.41	0.44	609	208	60	45	75.0	48	0.0001	3	5.0	0.05709	3	0	0	3	8,9,10,11,12	5	12
+e4_pawa28m_inf_vs_c7_l0	e4_pawa28m_inf_vs_c7_l0	e4	pawa28m	inf	C7	l0	0.33	0.42	0.35	609	208	19	13	68.42	13	0.0001	1	5.26	0.24148	1	0	0	1	9,10,11,12	4	12
+e4_pawa28m_inf_vs_c8_l0	e4_pawa28m_inf_vs_c8_l0	e4	pawa28m	inf	C8	l0	0.37	0.41	0.38	609	208	30	23	76.67	25	0.0001	2	6.67	0.05869	2	0	0	2	8,9,10,11,12	5	12
+e4_pawa28m_inf_vs_c9_l0	e4_pawa28m_inf_vs_c9_l0	e4	pawa28m	inf	C9	l0	0.34	0.4	-99.64	609	208	41	32	78.05	34	0.0001	3	7.32	0.0225	3	0	0	3	8,9,10,11,12	5	12
+e4_pawa63p_conf_vs_c10_l0	e4_pawa63p_conf_vs_c10_l0	e4	pawa63p	conf	C10	l0	0.43	0.43	0.43	567	208	59	48	81.36	51	0.0001	3	5.08	0.05009	2	0	0	3	3,4,8,9,10,11	6	11
+e4_pawa63p_conf_vs_c11_l0	e4_pawa63p_conf_vs_c11_l0	e4	pawa63p	conf	C11	l0	0.2	0.35	0.24	567	208	7	0	0.0	0	1.0	0	0.0	1.0	0	0	0	0		0	11
+e4_pawa63p_conf_vs_c2_l0	e4_pawa63p_conf_vs_c2_l0	e4	pawa63p	conf	C2	l0	0.4	0.41	0.4	567	208	49	39	79.59	42	0.0001	3	6.12	0.0364	2	0	0	3	8,9,10,11	4	11
+e4_pawa63p_conf_vs_c3_l0	e4_pawa63p_conf_vs_c3_l0	e4	pawa63p	conf	C3	l0	0.21	0.37	0.25	567	208	0	0	0.0	0	1.0	0	0.0	1.0	0	0	0	0		0	11
+e4_pawa63p_conf_vs_c4_l0	e4_pawa63p_conf_vs_c4_l0	e4	pawa63p	conf	C4	l0	0.26	0.43	-99.7	567	208	11	9	81.82	9	0.0001	1	9.09	0.14849	1	0	0	1	8,9,10,11	4	11
+e4_pawa63p_conf_vs_c5_l0	e4_pawa63p_conf_vs_c5_l0	e4	pawa63p	conf	C5	l0	0.24	0.39	0.27	567	208	4	3	75.0	3	0.0051	0	0.0	1.0	0	0	0	0	10,11	2	11
+e4_pawa63p_conf_vs_c6_l0	e4_pawa63p_conf_vs_c6_l0	e4	pawa63p	conf	C6	l0	0.37	0.4	0.38	567	208	50	42	84.0	45	0.0001	3	6.0	0.0342	2	0	0	3	3,4,8,9,10,11	6	11
+e4_pawa63p_conf_vs_c7_l0	e4_pawa63p_conf_vs_c7_l0	e4	pawa63p	conf	C7	l0	0.19	0.36	0.23	567	208	0	0	0.0	0	1.0	0	0.0	1.0	0	0	0	0		0	11
+e4_pawa63p_conf_vs_c8_l0	e4_pawa63p_conf_vs_c8_l0	e4	pawa63p	conf	C8	l0	0.3	0.4	0.32	567	208	40	29	72.5	30	0.0001	2	5.0	0.11149	1	0	0	2	7,8,9,10,11	5	11
+e4_pawa63p_conf_vs_c9_l0	e4_pawa63p_conf_vs_c9_l0	e4	pawa63p	conf	C9	l0	0.45	0.43	0.45	567	208	60	43	71.67	47	0.0001	3	5.0	0.05719	2	0	0	3	3,4,8,9,10,11	6	11

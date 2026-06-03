@@ -1,0 +1,37 @@
+kind	name	aa_len	n_repeats	n_hv_positions
+nlr	D1__ChEhDap__confirmed	555	12.0	84
+nlr	D2__CsDfp__confirmed	555	12.0	84
+nlr	D2__PaYp__confirmed	555	12.0	84
+nlr	E1__ChEhDap__confirmed	567	11.0	77
+nlr	E1__CmEmm__confirmed	609	12.0	84
+nlr	E1__FJ897789__confirmed	467	11.0	77
+nlr	E1__PaWa100p__inferred	567	11.0	77
+nlr	E1__PaWa87p__inferred	609	12.0	84
+nlr	E1__PaYp__confirmed	567	11.0	77
+nlr	E2__CoEcp__confirmed	525	10.0	70
+nlr	E3__CoEfp__confirmed	567	11.0	77
+nlr	E3__PaWa46p__inferred	609	12.0	84
+nlr	E3__PaWa58m__inferred	609	12.0	84
+nlr	E3__PaZp__confirmed	609	12.0	84
+nlr	d3__CmEmm__confirmed	597	12.0	84
+nlr	d3__PaWa100p__inferred	555	12.0	84
+nlr	d3__PaWa137m__inferred	513	11.0	77
+nlr	d3__PaWa21m__inferred	555	12.0	84
+nlr	d3__PaWa53m__inferred	513	11.0	77
+nlr	d3__PaWa58m__inferred	555	12.0	84
+nlr	d3__PaZp__confirmed	555	12.0	84
+nlr	e4__PaTgp__inferred	567	11.0	77
+nlr	e4__PaWa137m__inferred	567	11.0	77
+nlr	e4__PaWa28m__inferred	609	12.0	84
+nlr	e4__PaWa63p__confirmed	567	11.0	77
+hetc	C1	208		3
+hetc	C2	208		3
+hetc	C3	208		3
+hetc	C4	208		3
+hetc	C5	208		3
+hetc	C6	208		3
+hetc	C7	208		3
+hetc	C8	208		3
+hetc	C9	208		3
+hetc	C10	208		3
+hetc	C11	208		3

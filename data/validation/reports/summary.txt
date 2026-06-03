@@ -1,0 +1,21 @@
+AF3 Contact Validation Summary
+============================================================
+
+Jobs analyzed:           233
+Jobs with contacts >=0.2: 211
+Jobs without contacts:   22
+
+Permutations per test:   10000
+Significance threshold:  p < 0.05
+
+NLR hypervariable enrichment (significant jobs): 203/211
+HET-C hypervariable enrichment (significant jobs): 96/211
+
+Average observed vs expected (uniform) hit percentage:
+  NLR:   observed 82.72%   expected 16.67%   ratio 4.96x
+  HET-C: observed 6.72%   expected 1.44%   ratio 4.66x
+
+HET-C per-position average contacts:
+  Position 118: 0.00
+  Position 133: 0.00
+  Position 153: 2.29

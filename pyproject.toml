@@ -1,0 +1,31 @@
+[project]
+name = "het-incompatibility-af3"
+version = "0.1.0"
+description = "AlphaFold 3 pipeline for Neurospora heterokaryon incompatibility prediction"
+requires-python = ">=3.11"
+dependencies = [
+    "biopython>=1.84",
+    "pandas>=2.2",
+    "numpy>=2.0",
+    "jupyter>=1.1",
+    "ipykernel>=6.29",
+]
+
+[project.optional-dependencies]
+dev = [
+    "black>=24.0",
+    "isort>=5.13",
+    "pytest>=8.0",
+]
+
+[tool.black]
+line-length = 100
+target-version = ["py311"]
+
+[tool.isort]
+profile = "black"
+line_length = 100
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.backends.legacy:build"

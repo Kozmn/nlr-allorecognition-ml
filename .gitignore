@@ -1,0 +1,105 @@
+# ─── Python ──────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# ─── Environments ────────────────────────────────────────────────────────────
+.venv/
+.venv-ml/
+venv/
+env/
+.env
+.python-version
+
+# ─── IDE / OS ────────────────────────────────────────────────────────────────
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# ─── Project: large data files (do not commit) ──────────────────────────────
+# Embeddings (50-300 MB each)
+data/embeddings/*.npz
+data/embeddings/*.tsv
+
+# AF3 inputs/outputs (gigabytes)
+data/af3_inputs/
+data/af3_outputs/
+data/af3_wcss/
+
+# Per-pair feature matrices (30+ MB each)
+data/models/features_*.npz
+data/models_hv/features_*.npz
+
+# Per-residue SASA cache (200+ small JSONs)
+data/validation/sasa/*.json
+
+# Working / scratch outputs (regenerable, not part of the published repo)
+data/showcase/
+data/models_hv_concat/
+
+# WCSS scratch / logs
+wcss/logs/
+wcss/.venv-ml/
+
+# ─── Project: working notes (kept locally, not published) ───────────────────
+notes/
+
+# ─── Project: legacy scripts ────────────────────────────────────────────────
+scripts/_archive/
+
+# ─── Project: keep these (allow-list) ───────────────────────────────────────
+!data/sequences/
+!data/validation/reports/
+!data/models/oof_predictions*.csv
+!data/models/fold_summary*.csv
+!data/models/eval/
+!data/models/eval/*.png
+!data/validation/reports/heatmaps/*.png
+
+# ─── Large cached binary arrays (regenerable; keep ignored even though the ───
+#     allow-list above re-includes their parent directories) ─────────────────
+data/models/eval/supcon_projections_mean.npz
+data/validation/reports/heatmaps/aggregated_data.npz
+data/validation/reports/refined_enrichment/refined_enrichment_data.npz
+
+# ─── Experimental / scratch data outputs (not part of the published repo) ────
+#     (placed after the allow-list above so they stay ignored)
+data/models/*_quick.csv
+data/models/oof_predictions_full4608.csv
+data/models/eval/ablation_*
+data/models/eval/*_NOTEBOOK.png
+data/validation/reports/*_apo.tsv
+data/validation/reports/*_apo.txt
+
+# ─── Side-experiment scripts (not part of the documented pipeline) ───────────
+#     Only the scripts referenced in README.md / PIPELINE.md are published.
+scripts/ablation_features.py
+scripts/build_concat_features.py
+scripts/contacts_method_comparison.py
+scripts/contacts_physical.py
+scripts/density_per_phenotype.py
+scripts/hetc_topology_analysis.py
+scripts/phenotype_probability_table.py
+scripts/plot_confusion_matrix.py
+scripts/plot_global_heatmap_jointplot.py
+scripts/plot_pca_raw_vs_supcon.py
+scripts/plot_pipeline_decision_tree.py
+scripts/plot_roc_curves.py
+scripts/plot_xgb_comparison.py
+scripts/random_baseline_mcc.py
+scripts/replot_global_heatmap_zoom.py
+scripts/replot_hetc_density.py
+scripts/replot_neighborhood_enrichment.py
+scripts/sasa_apo_vs_complex.py
+scripts/sasa_classify_residues.py
+scripts/sasa_per_position.py
+scripts/sasa_replot_from_csv.py
+scripts/supcon_outliers.py
